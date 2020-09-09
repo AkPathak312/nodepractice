@@ -42,9 +42,3 @@ console.log(add(1, 4));
 
 const noargfunction = () => "Aniket";
 console.log(noargfunction());
-
-const {
-    name,
-    age
-} = person;
-console.log(name, age);

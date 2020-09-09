@@ -24,6 +24,7 @@ const {
     name,
     age
 } = person;
+//Note the name in {} should be same as property name in object
 console.log(name, age);
 
 //array destructuring

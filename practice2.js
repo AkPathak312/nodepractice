@@ -33,6 +33,5 @@ console.log(copiedArray);
 //Rest opertor
 //supports multiple dynamic number of arguments 
 //automatically puts args in an array
-
 const restoperatortest = (...args) => args;
 console.log(restoperatortest(1, 2, 3, 4, 5, 6));
